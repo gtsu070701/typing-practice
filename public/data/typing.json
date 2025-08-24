@@ -1,0 +1,28 @@
+{
+  "positions": {
+    "home": ["f","j","f","j","f","j","f","j"],
+    "leftTop": ["q","w","e","r","t"],
+    "leftBottom": ["z","x","c","v","b"],
+    "center": ["g","h"],
+    "rightTop": ["y","u","i","o","p"],
+    "rightBottom": ["n","m",",","."],
+    "all": [
+      "a","b","c","d","e","f","g","h","i","j",
+      "k","l","m","n","o","p","q","r","s","t",
+      "u","v","w","x","y","z",
+      "0","1","2","3","4","5","6","7","8","9",
+      ",",".",";","'","-","=","[","]","`","/"
+    ],
+    "number": ["0","1","2","3","4","5","6","7","8","9"]
+  },
+  "sentences": [
+    { "text": "The quick brown fox jumps over the lazy dog.", "level": "easy" },
+    { "text": "Practice makes progress, not perfection.", "level": "easy" },
+    { "text": "Typing every day improves speed and accuracy.", "level": "medium" },
+    { "text": "Focus on steady rhythm and clean keystrokes.", "level": "medium" },
+    { "text": "Small steps, big gains: keep going!", "level": "easy" },
+    { "text": "Accuracy builds confidence, and confidence builds speed.", "level": "hard" },
+    { "text": "Consistency in practice is the real key to mastery.", "level": "hard" },
+    { "text": "Generative AI is transforming education and research.", "level": "medium" }
+  ]
+}
